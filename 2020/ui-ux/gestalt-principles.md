@@ -4,13 +4,13 @@
 
 ### The Base Principles
 
-* **EMERGENCE** — The whole is identified before the parts
+* **EMERGENCE**         _The whole is identified before the parts_
 
-* **REIFICATION** — Our mind fills in the gaps
+* **REIFICATION**       _Our mind fills in the gaps_
 
-* **MULTI-STABILITY** — The mind seeks to avoid uncertainty
+* **MULTI-STABILITY**   _The mind seeks to avoid uncertainty_
 
-* **INVARIANCE** — We’re good at recognizing similarities and differences
+* **INVARIANCE**        _We’re good at recognizing similarities and differences_
 
 ### 20 Gestalt Principles
 
@@ -112,8 +112,8 @@
 
 ### References:
 
-https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/#top
-https://www.interaction-design.org/literature/topics/gestalt-principles
-https://en.wikipedia.org/wiki/Gestalt_psychology
-https://www.interaction-design.org/literature/topics/gestalt-principles
-https://usabilla.com/blog/gestalt-laws-simplicity-symmetry-experience/
+- https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/#top
+- https://www.interaction-design.org/literature/topics/gestalt-principles
+- https://en.wikipedia.org/wiki/Gestalt_psychology
+- https://www.interaction-design.org/literature/topics/gestalt-principles
+- https://usabilla.com/blog/gestalt-laws-simplicity-symmetry-experience/
