@@ -1,9 +1,10 @@
 # Visual Hierarchy
-Organizing content to follow natural eye movement patterns
+
+## Organizing content to follow natural eye movement patterns
 
 In a hierarchy
-- we organize items from the most to the least important
-- we show relationships (where relationships exist) between content blocks
+- We organize items from the most to the least important
+- We show relationships (where relationships exist) between content blocks
 
 So hierarchies give us order that helps make sense of a design easily. We want to prioritize headers and menus according to how we know what our users want and what we want them to do. We process information visually, perceiving elements in the order in which the designer has emphasized them according to these visual characteristics:
 
@@ -17,7 +18,7 @@ So hierarchies give us order that helps make sense of a design easily. We want t
 * Texture and Style — Using distinct textures/styles (e.g., chunky, military-style buttons) draws the eye while setting the theme.
 
 
-## Visual Hierarchy Patterns
+### Visual Hierarchy Patterns
 
 The Z Pattern — In designs without much text, our eye starts scanning from top left to top right, then diagonally down to bottom left, stopping at the bottom right.
 

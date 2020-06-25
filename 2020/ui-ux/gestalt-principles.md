@@ -4,13 +4,13 @@
 
 ### The Base Principles
 
-* **_EMERGENCE_** THE WHOLE IS IDENTIFIED BEFORE THE PARTS
+* **EMERGENCE** — The whole is identified before the parts
 
-* **_REIFICATION_** OUR MIND FILLS IN THE GAPS
+* **REIFICATION** — Our mind fills in the gaps
 
-* **_MULTI-STABILITY_** THE MIND SEEKS TO AVOID UNCERTAINTY
+* **MULTI-STABILITY** — The mind seeks to avoid uncertainty
 
-* **_INVARIANCE_** WE’RE GOOD AT RECOGNIZING SIMILARITIES AND DIFFERENCES
+* **INVARIANCE** — We’re good at recognizing similarities and differences
 
 ### 20 Gestalt Principles
 
@@ -19,7 +19,7 @@
 1. PROXIMITY (Emergence)
 
     “Objects that are closer together are perceived as more related than objects that are further apart.”
-We group closer-together elements, separating them from those farther apart.
+    We group closer-together elements, separating them from those farther apart.
 
 2. SIMILARITY (Invariance)
 
@@ -28,23 +28,23 @@ We group closer-together elements, separating them from those farther apart.
 3. CONTINUATION
 
     “Elements arranged on a line or curve are perceived as more related than elements not on the line or curve.”
-We follow and “flow with” lines.
+    We follow and “flow with” lines.
 
 4. CLOSURE (Reification)
 
     “When seeing a complex arrangement of elements, we tend to look for a single, recognizable pattern.”
-Preferring complete shapes, we automatically fill in gaps between elements to perceive a complete image; so, we see the whole first.
+    Preferring complete shapes, we automatically fill in gaps between elements to perceive a complete image; so, we see the whole first.
 
 5. UNIFORM CONNECTEDNESS
 
     “Elements that are visually connected are perceived as more related than elements with no connection.”
-We group elements linked by other elements.
+    We group elements linked by other elements.
 
 6. FIGURE/GROUND (Multi-stability)
 
     “Elements are perceived as either figure (the element in focus) or ground (the background on which the figure rests).” 
-Disliking uncertainty, we look for solid, stable items. Unless an image is truly ambiguous, its foreground catches the eye first.
-	Related principles: Area and Convexity
+    Disliking uncertainty, we look for solid, stable items. Unless an image is truly ambiguous, its foreground catches the eye first.
+	_Related principles: Area and Convexity_
 
 7. AREA
 
@@ -54,30 +54,30 @@ Disliking uncertainty, we look for solid, stable items. Unless an image is truly
 
     “Convex rather than concave patterns tend to be perceived as figures.”
 
-9. GOOD FORM
+9. PRÄGNANZ (GOOD FORM, LAW OF SIMPLICITY)
+
+    “People will perceive and interpret ambiguous or complex images as the simplest form(s) possible.”
+    We perceive complex or ambiguous images as simple ones.
+	_Related principles: Good Form and Simplicity_
+
+10. GOOD FORM
     
     We differentiate elements that are similar in color, form, pattern, etc. from others—even when they overlap—and cluster them together.
 
-10. MEANINGFULNESS (FAMILIARITY)
+11. MEANINGFULNESS (FAMILIARITY)
 
     We group elements if they form a meaningful or personally relevant image.
-
-11. PRÄGNANZ (GOOD FORM, LAW OF SIMPLICITY)
-
-    “People will perceive and interpret ambiguous or complex images as the simplest form(s) possible.”
-We perceive complex or ambiguous images as simple ones.
-	Related principles: Good Form and Simplicity
 
 12. COMMON REGIONS (ENCLOSURE)
 
     “Elements are perceived as part of a group if they are located within the same closed region.”
-We group elements that are in the same closed region.
+    We group elements that are in the same closed region.
 
 13. COMMON FATE
 
     “Elements that move in the same direction are perceived as more related than elements that are stationary or that move in different directions.”
-We group elements that move in the same direction.
-	Related principle: Synchrony
+    We group elements that move in the same direction.
+    _Related principle: Synchrony_
 
 14. SYNCHRONY
 
@@ -86,7 +86,7 @@ We group elements that move in the same direction.
 15. SYMMETRY AND ORDER
 
     “People tend to perceive objects as symmetrical shapes that form around their center.”
-We seek balance and order in designs, struggling to do so if they aren’t readily apparent.
+    We seek balance and order in designs, struggling to do so if they aren’t readily apparent.
 
 16. FOCAL POINTS
 
@@ -107,7 +107,7 @@ We seek balance and order in designs, struggling to do so if they aren’t readi
 20. PAST EXPERIENCES
 
     “Elements tend to be perceived according to an observer's past experience.”
-Weakest principle, unique to the individual, and common experiences tend to be cultural.
+    This is the weakest principle. It is unique to the individual, and common experiences tend to be cultural.
 
 
 ### References:
