@@ -106,7 +106,8 @@
 20. PAST EXPERIENCES
 
     Elements tend to be perceived according to an observer's past experience.
-    This is the weakest principle. It is unique to the individual, and common experiences tend to be cultural.
+    This principle is unique to the individual, and it is predisposed to a cultural bias. 
+    It is also the weakest as it tends to be dominated and influenced by the other principles.
 
 
 ### References:
