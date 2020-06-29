@@ -1,4 +1,4 @@
-# #84. Show, Don't Tell
+## #84. Show, Don't Tell
 -  Users seldom read text, so show them what you mean
 -  Video demos are great for complex software and UI
 -  Allow returning users to skip these demos

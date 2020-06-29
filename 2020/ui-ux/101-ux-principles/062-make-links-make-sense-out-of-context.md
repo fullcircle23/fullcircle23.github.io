@@ -1,4 +1,4 @@
-# #62. Make Links Make Sense Out of Context
+## #62. Make Links Make Sense Out of Context
 -  Avoid "click here" links
 -  Use descriptive links that make sense out of context
 -  This will help with search indexing as well as accessibility

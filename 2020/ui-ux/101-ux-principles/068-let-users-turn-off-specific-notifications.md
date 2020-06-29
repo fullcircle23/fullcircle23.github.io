@@ -1,4 +1,4 @@
-# #68. Let Users Turn off Specific Notifications
+## #68. Let Users Turn off Specific Notifications
 -  Allow users fine-grained control over notifications
 -  Don't bombard users with too many messages
 -  Remember that users can simply disable all notifications for your product at a system level

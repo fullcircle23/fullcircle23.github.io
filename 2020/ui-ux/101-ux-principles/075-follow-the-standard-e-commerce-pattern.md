@@ -1,4 +1,4 @@
-# #75. Follow the Standard E-Commerce Pattern
+## #75. Follow the Standard E-Commerce Pattern
 -  Every way that you can reduce friction in the purchasing funnel will increase conversions
 -  Users expect your store to work like every other store they've used
 -  Follow the pattern of products, a shopping basket, and a checkout

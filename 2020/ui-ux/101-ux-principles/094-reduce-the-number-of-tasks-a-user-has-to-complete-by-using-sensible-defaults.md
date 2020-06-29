@@ -1,4 +1,4 @@
-# #94. Reduce the Number of Tasks a User Has to Complete by Using Sensible Defaults
+## #94. Reduce the Number of Tasks a User Has to Complete by Using Sensible Defaults
 -  Using sensible defaults can reduce the effort users have to put in
 -  Combine insights from user testing, A/B testing, and analytics research
 -  Usually, a little effort in a few product areas goes a long way towards improving your product's default settings

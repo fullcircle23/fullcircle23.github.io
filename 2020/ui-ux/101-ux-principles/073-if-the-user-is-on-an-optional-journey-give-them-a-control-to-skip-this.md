@@ -1,4 +1,4 @@
-# #73. If the User is on an Optional Journey, Give Them a Control to "Skip This"
+## #73. If the User is on an Optional Journey, Give Them a Control to "Skip This"
 -  Allow users to skip optional parts of journeys
 -  Don't trap users in non-essential parts of your product
 -  Use metrics from analytics to inform your design decisions

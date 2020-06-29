@@ -1,4 +1,4 @@
-# #86. Use "Sign in" and "Sign out", Not "Log in" and "Log out"
+## #86. Use "Sign in" and "Sign out", Not "Log in" and "Log out"
 -  Use "sign in" and "sign out" in your product
 -  Relate tasks like this to real-world situations for familiarity
 -  In particular, try to avoid the dreaded "logon”

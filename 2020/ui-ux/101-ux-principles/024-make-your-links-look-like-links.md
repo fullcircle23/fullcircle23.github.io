@@ -1,4 +1,4 @@
-# #24. Make Your Links Look Like Links
+## #24. Make Your Links Look Like Links
 -  Make links look like links with visual affordances
 -  Don't make non-links look like links
 -  Don't make your users hunt for clickable controls

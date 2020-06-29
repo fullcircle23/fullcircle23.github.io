@@ -1,4 +1,4 @@
-# #45. Validate Data Entry as Soon as Possible
+## #45. Validate Data Entry as Soon as Possible
 -  Show the user where they've made mistakes as soon as possible
 -  Don't wait until the user has submitted the form
 -  You can't always validate without submitting the form, but it's a good principle to aim for

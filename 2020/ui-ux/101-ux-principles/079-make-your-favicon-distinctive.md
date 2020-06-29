@@ -1,4 +1,4 @@
-# #79. Make Your Favicon Distinctive
+## #79. Make Your Favicon Distinctive
 -  Make your favicon clear and distinctive
 -  Users use favicons to identify tabs, favorites, and more
 -  Favicons can be displayed as small as 16 pixels, so check them at that size

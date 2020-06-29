@@ -1,4 +1,4 @@
-# #43. Be Case-Insensitive
+## #43. Be Case-Insensitive
 -  Default to case-insensitive if you're not sure
 -  Always make passwords case-sensitive
 -  If something has to be case-sensitive, tell the user this is the case

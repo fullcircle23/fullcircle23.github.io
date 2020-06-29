@@ -1,4 +1,4 @@
-# #71. The User Should Always Know at What Stage They Are in Any Given Journey
+## #71. The User Should Always Know at What Stage They Are in Any Given Journey
 -  Provide visual cues that serve as landmarks in the product
 -  Tell the user clearly what stage they're at in every journey
 -  Give the user controls that let them move between stages

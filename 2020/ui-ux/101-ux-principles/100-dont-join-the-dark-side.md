@@ -1,4 +1,4 @@
-# #100. Don't Join the Dark Side
+## #100. Don't Join the Dark Side
 -  Think about the moral and ethical implications of the software you help to create
 -  Design interfaces and experiences that you'd want to use
 -  Fight for the user, not the company

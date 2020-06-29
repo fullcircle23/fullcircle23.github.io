@@ -1,4 +1,4 @@
-# #2. Don't Use More Than Two Typefaces
+## #2. Don't Use More Than Two Typefaces
 -  Use two typefaces maximum
 -  Use one typeface for headings and titles
 -  Use another typeface for body copy

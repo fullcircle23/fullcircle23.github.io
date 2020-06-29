@@ -1,4 +1,4 @@
-# #49. Allow Users to Enter Phone Numbers However They Wish
+## #49. Allow Users to Enter Phone Numbers However They Wish
 -  Don't attempt to validate or parse phone numbers in the user interface
 -  Just let the user key in their number or use Autofill
 -  Show the user a numeric keypad on mobile

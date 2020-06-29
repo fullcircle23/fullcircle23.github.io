@@ -1,4 +1,4 @@
-# #99. Brands Are Bullshit
+## #99. Brands Are Bullshit
 -  Nobody cares about your brand, only about what your product lets them do
 -  A good UX is better than a good brand
 -  Fight for the user, not the brand guide

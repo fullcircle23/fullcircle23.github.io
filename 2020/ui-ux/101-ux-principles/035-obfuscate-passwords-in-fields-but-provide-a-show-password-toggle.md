@@ -1,4 +1,4 @@
-# #35. Obfuscate Passwords in Fields, but Provide a "Show Password" Toggle
+## #35. Obfuscate Passwords in Fields, but Provide a "Show Password" Toggle
 -  Obfuscate passwords but let the user toggle them to visible
 -  Show the user any rules that they need to follow when creating a password
 -  Don't ask the user to retype the password when setting it

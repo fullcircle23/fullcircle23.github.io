@@ -1,4 +1,4 @@
-# #74. Users Don't Care About Your Company
+## #74. Users Don't Care About Your Company
 -  Don't overdo the corporate vision in your product
 -  Users care about what your product lets them do, not what it says it does
 -  Strive for objectivity in your work

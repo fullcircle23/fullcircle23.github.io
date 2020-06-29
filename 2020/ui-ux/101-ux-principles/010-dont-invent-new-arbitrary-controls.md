@@ -1,4 +1,4 @@
-# #10. Don't Invent New, Arbitrary Controls
+## #10. Don't Invent New, Arbitrary Controls
 -  Don't invent your own UI
 -  There's almost certainly a UI component out there that does what you need
 -  Don't make users learn your new thing

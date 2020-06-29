@@ -1,4 +1,4 @@
-# #15. Allow Users to Undo Destructive Actions
+## #15. Allow Users to Undo Destructive Actions
 -  Allow users to undo their mistakes
 -  Give users a greater sense of freedom and control
 -  Be forgiving—people will make mistakes

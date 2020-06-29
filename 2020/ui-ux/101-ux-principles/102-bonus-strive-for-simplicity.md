@@ -1,4 +1,4 @@
-# #102. Bonus - Strive for Simplicity
+## #102. Bonus - Strive for Simplicity
 
 Strive for simplicity and clarity in _every aspect_ of your work.
 

@@ -1,4 +1,4 @@
-# #40. Don't Ever Make Your UI Move While a User is Trying to Use It
+## #40. Don't Ever Make Your UI Move While a User is Trying to Use It
 -  Keep UI control elements static
 -  Micro animations are fine, but keep them short and subtle
 -  Test how your interfaces appear on a range of devices and connection speeds

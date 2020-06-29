@@ -1,4 +1,4 @@
-# #67. Write Clear Labels for Controls
+## #67. Write Clear Labels for Controls
 -  Screen readers rely on labels for partially-sighted users
 -  Field labels benefit all users
 -  Placeholder labels disappear or are obscured when the user types in the field

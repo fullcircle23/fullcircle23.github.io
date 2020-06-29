@@ -1,4 +1,4 @@
-# #37. Don't Attempt to Validate Email Addresses
+## #37. Don't Attempt to Validate Email Addresses
 -  Don't validate emails on the client side
 -  Tell the browser or device that you're collecting an email address
 -  Verify emails on the server side with a one-click verification link

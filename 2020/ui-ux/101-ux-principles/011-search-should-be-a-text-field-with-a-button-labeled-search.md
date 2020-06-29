@@ -1,4 +1,4 @@
-# #11. Search Should be a Text Field with a Button Labeled "Search"
+## #11. Search Should be a Text Field with a Button Labeled "Search"
 -  Search should be a text field with a search button
 -  Only use the "magnifying glass" icon for search
 -  Move the focus to the search field when the Search tab is tapped on mobile

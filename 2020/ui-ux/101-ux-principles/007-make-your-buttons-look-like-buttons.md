@@ -1,4 +1,4 @@
-# #7. Make Your Buttons Look Like Buttons
+## #7. Make Your Buttons Look Like Buttons
 -  Make buttons look like buttons
 -  Don't make non-buttons look like buttons
 -  Borrow ideas from real-world experiences in your UI

@@ -1,4 +1,4 @@
-# #52. Make it Easy for Users to Enter Postal or ZIP Codes
+## #52. Make it Easy for Users to Enter Postal or ZIP Codes
 -  Form entry is a pain for users, so just let them enter their postcode simply and validate it later
 -  Offer a "live lookup" for postcodes to address conversion, if possible
 -  Allow "Autocomplete" in form fields using HTML

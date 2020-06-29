@@ -1,4 +1,4 @@
-# #50. Use Drop Downs Sensibly for Date Entry
+## #50. Use Drop Downs Sensibly for Date Entry
 -  Use drop-down selectors for the day and month
 -  Use numeric entry for the year
 -  Mobile devices should show the system date picker

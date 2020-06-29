@@ -1,4 +1,4 @@
-# #17. Use "Infinite Scroll" for Feed–Style Content Only
+## #17. Use "Infinite Scroll" for Feed–Style Content Only
 -  Use pagination for long lists of items
 -  Use infinite scroll for news-feed-style content only
 -  Remember the user's position if they navigate away from the feed

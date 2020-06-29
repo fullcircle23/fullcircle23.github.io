@@ -1,4 +1,4 @@
-# #57. Never Show an Animated, Looping Progress Bar
+## #57. Never Show an Animated, Looping Progress Bar
 -  Don't show a looping progress bar
 -  Don't indicate to users that something is about to complete when it isn't
 -  Test your software in real internet conditions, not just on your computer

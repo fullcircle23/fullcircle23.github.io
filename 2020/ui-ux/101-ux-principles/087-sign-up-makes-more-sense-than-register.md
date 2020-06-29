@@ -1,4 +1,4 @@
-# #87. "Sign up" Makes More Sense Than "Register"
+## #87. "Sign up" Makes More Sense Than "Register"
 -  Use "sign up" or "join" instead of "register"
 -  Tell the user the benefits of creating an account
 -  Be consistent across in-app copy and control labels

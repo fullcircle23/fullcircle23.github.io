@@ -1,4 +1,4 @@
-# #8. Make Buttons a Sensible Size and Group Them Together by Function
+## #8. Make Buttons a Sensible Size and Group Them Together by Function
 -  Make buttons big enough that they can be tapped or clicked easily
 -  Place buttons close enough to be reachable
 -  Don't cause "misclicks" by placing buttons too close together

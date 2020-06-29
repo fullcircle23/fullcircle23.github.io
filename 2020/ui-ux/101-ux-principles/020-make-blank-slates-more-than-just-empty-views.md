@@ -1,4 +1,4 @@
-# #20. Make "Blank Slates" More Than Just Empty Views
+## #20. Make "Blank Slates" More Than Just Empty Views
 -  Use blank slates to orient new users
 -  Be task-oriented in the advice you give to users
 -  Be specific in your advice if you offer blank slates on a per-feature basis

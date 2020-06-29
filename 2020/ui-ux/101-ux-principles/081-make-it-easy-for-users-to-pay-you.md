@@ -1,4 +1,4 @@
-# #81. Make it Easy for Users to Pay You
+## #81. Make it Easy for Users to Pay You
 -  Make payment and ordering pages as easy to use as possible
 -  Don't hide your pricing page away, and make it simple and clear
 -  Test your payment flow regularly
