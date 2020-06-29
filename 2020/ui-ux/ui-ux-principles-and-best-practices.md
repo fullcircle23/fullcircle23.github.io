@@ -22,11 +22,9 @@ Following is a list of Nielsen's 10 heuristics, each containing a list of princi
 
 
 ## #1: Visibility of system status
-The system should always keep users informed about what is going on, through appropriate feedback within reasonable time.
-
-[Read more about Visibility of system status](https://www.nngroup.com/articles/visibility-system-status/)
-
-
+The system should always keep users informed about what is going on, through appropriate feedback within reasonable time. 
+(Learn more about [Nielsen's heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/). 
+Read full article on [Visibility of System Status](https://www.nngroup.com/articles/visibility-system-status).)
 
 ##### Tognazzini's
 * Latency Reduction
@@ -55,11 +53,9 @@ The system should always keep users informed about what is going on, through app
 
 ## #2: Match between system and the real world
 The system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. 
-Follow real-world conventions, making information appear in a natural and logical order.
-
-[Read more about Match between system and the real world](https://www.nngroup.com/articles/match-system-real-world/)
-
-
+Follow real-world conventions, making information appear in a natural and logical order. 
+(Learn more about [Nielsen's heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/). 
+Read full article on [Match between system and the real world](https://www.nngroup.com/articles/match-system-real-world/).)
 
 ##### Tognazzini's
 * Human Interface Objects
@@ -85,9 +81,8 @@ Follow real-world conventions, making information appear in a natural and logica
 * None
 
 ## #3: User control and freedom
-Users often choose system functions by mistake and will need a clearly marked "emergency exit" to leave the unwanted state without having to go through an extended dialogue. Support undo and redo.
-
-
+Users often choose system functions by mistake and will need a clearly marked "emergency exit" to leave the unwanted state without having to go through an extended dialogue. 
+Support undo and redo. (Learn more about [Nielsen's heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/).)
 
 ##### Tognazzini's
 * Explorable Interfaces
@@ -108,12 +103,11 @@ Users often choose system functions by mistake and will need a clearly marked "e
 
 ## #4: Consistency and standards
 Users should not have to wonder whether different words, situations, or actions mean the same thing. 
-Follow platform conventions.
+Follow [platform conventions](https://www.nngroup.com/articles/do-interface-standards-stifle-design-creativity).
+(Learn more about [Nielsen's heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/).)
 
-* [Jakob's Law of the Web User Experience](https://www.nngroup.com/videos/jakobs-law-internet-ux/)
+* [Jakob's Law of the Web User Experience](https://www.nngroup.com/videos/jakobs-law-internet-ux/) -
 _Users spend most of their time on other sites. Thus, anything that is a convention and used on the majority of other sites will be burned into the users' brains and you can only deviate from it on pain of major usability problems._
-
-
 
 ##### Tognazzini's
 * Colour
@@ -161,11 +155,10 @@ _Users spend most of their time on other sites. Thus, anything that is a convent
 
 ## #5: Error prevention
 Even better than good error messages is a careful design which prevents a problem from occurring in the first place. Either eliminate error-prone conditions or check for them and present users with a confirmation option before they commit to the action.
+(Learn more about [Nielsen's heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/).)
 
 * [Preventing User Errors: Avoiding Unconscious Slips](https://www.nngroup.com/articles/slips/)
 * [Preventing User Errors: Avoiding Conscious Mistakes](https://www.nngroup.com/articles/user-mistakes/)
-
-
 
 ##### Tognazzini's
 * Efficiency of the User (Error messages should actually help)
@@ -185,10 +178,7 @@ Even better than good error messages is a careful design which prevents a proble
 
 ## #6: Recognition rather than recall
 Minimize the user's memory load by making objects, actions, and options visible. The user should not have to remember information from one part of the dialogue to another. Instructions for use of the system should be visible or easily retrievable whenever appropriate.
-
-[Read more about Recognition rather than recall](https://www.nngroup.com/articles/recognition-and-recall/)
-
-
+(Learn more about [Nielsen's heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/).)
 
 ##### Tognazzini's
 * Anticipation
@@ -209,11 +199,8 @@ Minimize the user's memory load by making objects, actions, and options visible.
 * None
 
 ## #7: Flexibility and efficiency of use
-Accelerators — unseen by the novice user — may often speed up the interaction for the expert user such that the system can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.
-
-[Read more about Accelerators](https://www.nngroup.com/articles/ui-accelerators/)
-
-
+[Accelerators](https://www.nngroup.com/articles/ui-accelerators/) — unseen by the novice user — may often speed up the interaction for the expert user such that the system can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.
+(Learn more about [Nielsen's heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/).)
 
 ##### Tognazzini's
 * Discoverability
@@ -243,8 +230,7 @@ Accelerators — unseen by the novice user — may often speed up the interactio
 
 ## #8: Aesthetic and minimalist design
 Dialogues should not contain information which is irrelevant or rarely needed. Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility.
-
-
+(Learn more about [Nielsen's heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/).)
 
 ##### Tognazzini's
 * Aesthetics
@@ -279,11 +265,8 @@ Dialogues should not contain information which is irrelevant or rarely needed. E
 * Code of conduct and ethics
 
 ## #9: Help users recognize, diagnose, and recover from errors
-Error messages should be expressed in plain language (no codes), precisely indicate the problem, and constructively suggest a solution.
-
-* [Error Message Guidelines](https://www.nngroup.com/articles/error-message-guidelines/)
-
-
+[Error messages](https://www.nngroup.com/articles/error-message-guidelines/) should be expressed in plain language (no codes), precisely indicate the problem, and constructively suggest a solution.
+(Learn more about [Nielsen's heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/).)
 
 ##### Tognazzini's
 * N/A
@@ -302,8 +285,7 @@ Error messages should be expressed in plain language (no codes), precisely indic
 
 ## #10: Help and documentation
 Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. Any such information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large.
-
-
+(Learn more about [Nielsen's heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/).)
 
 ##### Tognazzini's
 * N/A

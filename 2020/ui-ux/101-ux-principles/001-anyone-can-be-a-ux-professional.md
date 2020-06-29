@@ -4,3 +4,5 @@
 -  This book aims to provide a shortcut to success with 101 tried-and-tested principles
 
 Excerpt From: ["101 UX Principles"](https://www.packtpub.com/web-development/101-ux-principles) book by Will Grant, published by Packt.
+
+[[Home](https://github.com/fullcircle23/fullcircle23.github.io/blob/master/2020/ui-ux/ui-ux-principles-and-best-practices.md)]

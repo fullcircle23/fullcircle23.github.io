@@ -8,3 +8,5 @@ Excerpt From: ["101 UX Principles"](https://www.packtpub.com/web-development/101
 ### Nielsen's Heuristics
 - [#6: Recognition rather than recall](https://github.com/fullcircle23/fullcircle23.github.io/blob/master/2020/ui-ux/ui-ux-principles-and-best-practices.md#6-recognition-rather-than-recall)
 - [#7: Flexibility and efficiency of use](https://github.com/fullcircle23/fullcircle23.github.io/blob/master/2020/ui-ux/ui-ux-principles-and-best-practices.md#7-flexibility-and-efficiency-of-use)
+
+[[Home](https://github.com/fullcircle23/fullcircle23.github.io/blob/master/2020/ui-ux/ui-ux-principles-and-best-practices.md)]
