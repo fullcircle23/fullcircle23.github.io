@@ -39,4 +39,6 @@ The "Notes" item in the above layout is to document exceptions, if any, as well 
 I have also found Toni Granollers's work in a paper titled ["Usability Evaluation with Heuristics, Beyond Nielsen’s List"](https://www.thinkmind.org/index.php?view=article&articleid=achi_2018_4_10_20055) 
 which merged Nielsen’s and Tognazzini’s lists into 15 general principles to be quite useful in this endeavour.
 
-[Here is my final list with 10 general principles](https://github.com/fullcircle23/fullcircle23.github.io/blob/master/2020/ui-ux/ui-ux-principles-and-best-practices.md).
+Here is my final list with 10 general principles:
+
+[UI/UX Principles and Best Practices](https://github.com/fullcircle23/fullcircle23.github.io/blob/master/2020/ui-ux/ui-ux-principles-and-best-practices.md)

@@ -8,7 +8,9 @@ Created: 2020-06-29
 License: GPLv3
 ```
 
-This UI/UX guide "maps" and "links" appropriate UI/UX principles from the following sources 
+As described in the [overview](https://github.com/fullcircle23/fullcircle23.github.io/blob/master/2020/ui-ux/ui-ux-principles-and-best-practices-overview.md)
+page, this UI/UX guide "maps" and "links" appropriate UI/UX principles from the following sources 
+
 * [Tognazzini's 19 First Principles of Interaction Design](https://www.designprinciplesftw.com/collections/first-principles-of-interaction-design)
 * [Weinschenk and Barker 20 classifications](https://en.wikipedia.org/wiki/Heuristic_evaluation#Weinschenk_and_Barker_classification) 
 * [Whitney Hess's 20 Guiding Principles for UX Designers](https://uxmag.com/articles/guiding-principles-for-ux-designers) 
@@ -16,12 +18,15 @@ This UI/UX guide "maps" and "links" appropriate UI/UX principles from the follow
 
 to [Nielsen's 10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) 
 
+Following is a list of Nielsen's 10 heuristics, each containing a list of principles from the other sets.
+
+
 ## #1: Visibility of system status
 The system should always keep users informed about what is going on, through appropriate feedback within reasonable time.
 
 [Read more about Visibility of system status](https://www.nngroup.com/articles/visibility-system-status/)
 
-#### Additionally:
+
 
 ##### Tognazzini's
 * Latency Reduction
@@ -54,7 +59,7 @@ Follow real-world conventions, making information appear in a natural and logica
 
 [Read more about Match between system and the real world](https://www.nngroup.com/articles/match-system-real-world/)
 
-#### Additionally:
+
 
 ##### Tognazzini's
 * Human Interface Objects
@@ -82,7 +87,7 @@ Follow real-world conventions, making information appear in a natural and logica
 ## #3: User control and freedom
 Users often choose system functions by mistake and will need a clearly marked "emergency exit" to leave the unwanted state without having to go through an extended dialogue. Support undo and redo.
 
-#### Additionally:
+
 
 ##### Tognazzini's
 * Explorable Interfaces
@@ -108,7 +113,7 @@ Follow platform conventions.
 * [Jakob's Law of the Web User Experience](https://www.nngroup.com/videos/jakobs-law-internet-ux/)
 _Users spend most of their time on other sites. Thus, anything that is a convention and used on the majority of other sites will be burned into the users' brains and you can only deviate from it on pain of major usability problems._
 
-#### Additionally:
+
 
 ##### Tognazzini's
 * Colour
@@ -160,7 +165,7 @@ Even better than good error messages is a careful design which prevents a proble
 * [Preventing User Errors: Avoiding Unconscious Slips](https://www.nngroup.com/articles/slips/)
 * [Preventing User Errors: Avoiding Conscious Mistakes](https://www.nngroup.com/articles/user-mistakes/)
 
-#### Additionally:
+
 
 ##### Tognazzini's
 * Efficiency of the User (Error messages should actually help)
@@ -183,7 +188,7 @@ Minimize the user's memory load by making objects, actions, and options visible.
 
 [Read more about Recognition rather than recall](https://www.nngroup.com/articles/recognition-and-recall/)
 
-#### Additionally:
+
 
 ##### Tognazzini's
 * Anticipation
@@ -208,7 +213,7 @@ Accelerators — unseen by the novice user — may often speed up the interactio
 
 [Read more about Accelerators](https://www.nngroup.com/articles/ui-accelerators/)
 
-#### Additionally:
+
 
 ##### Tognazzini's
 * Discoverability
@@ -239,7 +244,7 @@ Accelerators — unseen by the novice user — may often speed up the interactio
 ## #8: Aesthetic and minimalist design
 Dialogues should not contain information which is irrelevant or rarely needed. Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility.
 
-#### Additionally:
+
 
 ##### Tognazzini's
 * Aesthetics
@@ -278,7 +283,7 @@ Error messages should be expressed in plain language (no codes), precisely indic
 
 * [Error Message Guidelines](https://www.nngroup.com/articles/error-message-guidelines/)
 
-#### Additionally:
+
 
 ##### Tognazzini's
 * N/A
@@ -298,7 +303,7 @@ Error messages should be expressed in plain language (no codes), precisely indic
 ## #10: Help and documentation
 Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. Any such information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large.
 
-#### Additionally:
+
 
 ##### Tognazzini's
 * N/A
